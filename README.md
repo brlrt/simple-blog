@@ -1,3 +1,3 @@
 # Simple Blog
 
-[](app/assets/images/simple-blog.png)
+![](app/assets/images/simple-blog.png)
